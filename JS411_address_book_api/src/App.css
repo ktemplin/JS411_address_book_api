@@ -1,0 +1,34 @@
+body {
+  padding: 20px;
+ font-family: 'Courier New', Courier, monospace;
+ background-color: black;
+ color:blanchedalmond;
+}
+h3 {
+  font-size: 1em;
+  
+}
+.list {
+  display: grid;
+  grid-template-columns: repeat(2,1fr);
+  gap: 40px;
+  
+}
+
+
+.person-info {
+  list-style: none;
+
+  
+}
+
+.person-data{
+  list-style:none;
+}
+
+img {
+  max-height: 120px;
+}
+
+
+
